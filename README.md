@@ -1,4 +1,7 @@
 # michaelis105.github.io
+
+*Update: I have migrated to my new primary website at michaellouie.xyz. The only purpose for this website is to redirect traffic using my older URL.
+
 My first personal professional website showcases my skills, expertise, and portfolio in a light-hearted manner. I've always wanted to make a site like this for two reasons: 
 
 1) Introduce another way to show the world what I am 
